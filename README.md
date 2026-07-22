@@ -50,4 +50,4 @@ function boasVindas(nome) {
 | html | Sim | Ativo |
 | Markdown | sim | Ativo |
 
-![PC](pc.jpg)
+![Melhor dupla](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXFbe4xL-DHBMcptsA1uZpMtYMn2a_I-0zdnzqpxRz8mQlelxj7k_EpvDNDWBn2InA6BlmDxczgWjkrsZWcY5lqI2XwPZXCu8FJTOAFI&s=10)
