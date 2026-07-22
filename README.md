@@ -37,4 +37,17 @@ Acesse o [gemini](https://gemini.google.com)
 
 ![logu](https://cdn-icons-png.flaticon.com/512/9929/9929246.png)
 
+Exemplo de trecho de código:
+```javascript
+function boasVindas(nome) {
+  console.log(`ola, ${nome}!`);
+}
+```
+## Exemplo de tabelas
 
+| Recurso | Suporte | Status |
+| :--- |:--- |:--- |
+| html | Sim | Ativo |
+| Markdown | sim | Ativo |
+
+![PC](pc.jpg)
